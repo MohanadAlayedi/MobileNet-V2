@@ -17,4 +17,8 @@ The repository includes:
 - Dataset access information
 ---
 
+## 2. Dataset Link
+
+Real Life Violence Situations Dataset
+https://www.kaggle.com/datasets/mohamedmustafa/real-life-violence-situations-dataset
 
