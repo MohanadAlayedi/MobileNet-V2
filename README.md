@@ -22,7 +22,6 @@ The repository includes:
 First of all, you need to download simulation file "Hybrid_MobileNet_BiLSTM_Framework_for_Efficient_Real_Time_Violence_Detection_in_Surveillance_Videos.ipynp". Then, upload it to Googole Colab. Now, it is ready to be excuded.
 
 ## 3. Dataset Link
-Real Life Violence Situations Dataset
-Publicly available datasets were analyzed and employed in this study. This data can be found in Kaggle at:
+Real Life Violence Situations Dataset. It is a publicly available datasets were analyzed and employed in this study. This data can be found in Kaggle at:
 https://www.kaggle.com/datasets/mohamedmustafa/real-life-violence-situations-dataset
 
